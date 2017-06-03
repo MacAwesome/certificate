@@ -1,0 +1,2 @@
+git config --local user.name MacAwesome
+git config --local user.email example@example.com
